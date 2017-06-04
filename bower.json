@@ -1,0 +1,26 @@
+{
+  "name": "wakewinch",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Владимир Тучкевич <valtu4a@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "jquery-migrate": "^3.0.0",
+    "animate.sass": "*",
+    "font-awesome": "^4.7.0",
+    "waypoints": "^4.0.1",
+    "bootstrap-sass": "^3.3.7",
+    "bourbon": "^4.3.4"
+  }
+}
